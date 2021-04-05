@@ -1,0 +1,47 @@
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\bin\Debug\Rating Application.exe.config
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\bin\Debug\Rating Application.exe
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\bin\Debug\Rating Application.pdb
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating Application.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Login.resources
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating Application.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating Application.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating Application.csproj.CopyComplete
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating Application.exe
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating Application.pdb
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Home.resources
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Menu_Forms.Feedback.resources
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Menu_Forms.CriteriaData.resources
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Menu_Forms.Add_Criteria.resources
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Menu_Forms.Rating_Report.resources
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Menu_Forms.About_Us.resources
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Menu_Forms.Documentation.resources
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Landing_Page.resources
+C:\Users\Dell\OneDrive\Desktop\Coursework\Aplication Development\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Menu_Forms.Chart_Report.resources
+E:\Coursework\Rating Application\Rating Application\bin\Debug\Rating Application.exe.config
+E:\Coursework\Rating Application\Rating Application\bin\Debug\Rating Application.exe
+E:\Coursework\Rating Application\Rating Application\bin\Debug\Rating Application.pdb
+E:\Coursework\Rating Application\Rating Application\bin\Debug\FontAwesome.Sharp.dll
+E:\Coursework\Rating Application\Rating Application\bin\Debug\Guna.UI2.dll
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating Application.csprojAssemblyReference.cache
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Home.resources
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Landing_Page.resources
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Login.resources
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Menu_Forms.About_Us.resources
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Menu_Forms.Add_Criteria.resources
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Menu_Forms.Chart_Report.resources
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Menu_Forms.CriteriaData.resources
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Menu_Forms.Documentation.resources
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Menu_Forms.Feedback.resources
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Menu_Forms.Rating_Report.resources
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Properties.Resources.resources
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating Application.csproj.GenerateResource.cache
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating Application.csproj.CoreCompileInputs.cache
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating Application.csproj.CopyComplete
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating Application.exe
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating Application.pdb
+E:\Coursework\Rating Application\Rating Application\bin\Debug\Newtonsoft.Json.dll
+E:\Coursework\Rating Application\Rating Application\bin\Debug\Newtonsoft.Json.xml
+E:\Coursework\Rating Application\Rating Application\obj\Debug\Rating_Application.Register.resources
